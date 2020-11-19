@@ -1,12 +1,7 @@
-<?php
-	include 'header.php';
-	include 'sidebar.php';
-	include 'footer.php';
-?>
-
 <html>
 <head>
 <style>
+
 .imagegti{
 	height:130px;
 	width:140px;
@@ -101,6 +96,7 @@
 .footertext{
 	margin-left:20px;
 }
+
 </style>
 
 
@@ -212,7 +208,11 @@ Charleroi: Rue Jules Empain 5, 7170 Manage <br><br>
 
 
 
-
+<div class="footer">
+    <div style="position:relative;">
+        <a href=""><div class="FooterText"><i class="fas fa-arrow-up"></i> Go back to the top</div></a>
+    </div>
+    </div>
 
  
 
